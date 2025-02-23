@@ -1,4 +1,3 @@
-# Turmeric Soup!~
 As techy peeps of this world, we envision a universal society of programmers where everyone's
 - Mind is challenged to seek true,
 - Heart is nurtured to desire and love what is good, and
