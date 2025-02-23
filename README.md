@@ -26,7 +26,7 @@ To satisfy our hunger for kawaii or cute stickers that can be used in our convos
 </p>
 
 ## [1Fourth Sheet](https://github.com/walpuerto/1Fourth-Sheet)
-Here's the short description hehe. If you want a longer read, I suggest clicking on that blue link, yes that BLUE link, right above me. :))
+Here's the short description hehe. If you want a longer read, I suggest clicking on that yellow link, yes that YELLOW link, right above me. :))
     
 >Purpose: 🌏 SAVE, 😊 EASE, 💡 LEARN
 
