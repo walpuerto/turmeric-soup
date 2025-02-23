@@ -33,6 +33,7 @@ Here's the short description hehe. If you want a longer read, I suggest clicking
 >Purpose: 🌏 SAVE, 😊 EASE, 💡 LEARN
 
 >Features: 🎲 Randomized Groupings, 📱 In-App Grading, 📝 Google Sheets Integration 
+
 ## [RecTavo](https://github.com/walpuerto/RecTavo)
 <p align="center">
     <img src="https://raw.githubusercontent.com/walpuerto/RecTavo/main/resources/RecTavoLogo2.png" width="75%">
