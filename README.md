@@ -16,26 +16,30 @@ Adapted from the [SACS Vision](https://sacs.edu.ph/about-us/).
 
 # The Past: Past Endevaors
 ## [StarRail Sticker Scrapper](https://github.com/walpuerto/StarRail-Sticker-Scrapper)
+
+To satisfy our hunger for kawaii or cute stickers that can be used in our convos, we made this sticker scrapper using the Honkai Star Fail: Fandom character base for us!
+
 <p align="center">
     <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/Sticker_PPG_06_Kafka_03.png" width="200">
     <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/Sticker_PPG_01_March_7th_07.png" width="200">
     <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/Sticker_PPG_11_Herta_01.png" width="200">
 </p>
-To satisfy our hunger for kawaii or cute stickers that can be used in our convos, we made this sticker scrapper using the Honkai Star Fail: Fandom character base for us!
 
 ## [1Fourth Sheet](https://github.com/walpuerto/1Fourth-Sheet)
-<p align="center">
-    <img src="https://raw.githubusercontent.com/walpuerto/1Fourth-Sheet/refs/heads/main/resources/thumbnail.png" width="75%">
-</p>
-
 Here's the short description hehe. If you want a longer read, I suggest clicking on that blue link, yes that BLUE link, right above me. :))
     
 >Purpose: 🌏 SAVE, 😊 EASE, 💡 LEARN
 
 >Features: 🎲 Randomized Groupings, 📱 In-App Grading, 📝 Google Sheets Integration 
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/walpuerto/1Fourth-Sheet/refs/heads/main/resources/thumbnail.png" width="75%">
+</p>
+
 ## [RecTavo](https://github.com/walpuerto/RecTavo)
+RecTavo is a lightweight, precise, and customizable, utility mobile-app for businesses.
+
+Built-in is a record keeper to track your employees' work hours and a pay calculator that automatically compensates for overtime, holidays, deductions, etc.
 <p align="center">
     <img src="https://raw.githubusercontent.com/walpuerto/RecTavo/main/resources/RecTavoLogo2.png" width="75%">
 </p>
-RecTavo is a lightweight, precise, and customizable, utility mobile-app for businesses concerned with employee pay and performance.
